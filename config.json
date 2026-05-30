@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderftringify",
+        "uuid": 10069392,
+        "checksum": "sbham"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
